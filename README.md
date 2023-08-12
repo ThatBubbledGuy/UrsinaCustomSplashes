@@ -8,7 +8,6 @@ The custom ursina splash screen is a way to add your own splash screens with **c
 
 
 ### HOW TO USE IT
-**PLEASE IGNORE THE HTML CODE 
 How to use it:
  ```python
   from customsplash import CustomSplash #import the library
