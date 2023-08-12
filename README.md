@@ -3,11 +3,11 @@
 The custom ursina splash screen is a way to add your own splash screens with **custom and customizable** splash screens!
 
 
-##HOW TO INSTALL
+## HOW TO INSTALL
    To install this tool, you should clone this repository into your project folder. Then, remove the __README__.md file and then follow the tutorial. You can tweak things as you want.
 
 
-###HOW TO USE IT
+### HOW TO USE IT
 **PLEASE IGNORE THE HTML CODE 
 How to use it:
  ```python
